@@ -3,12 +3,12 @@
 ## Instalasi
 
 ```bash
-git clone https://github.com/your-repo/Script_petro.git
-cd Script_petro
+git clone https://github.com/pitik0x/tools_reporting_vpn.git
+cd tools_reporting_vpn
 python -m venv venv
 .\venv\Scripts\Activate.ps1       # Windows PowerShell
 pip install -r requirements.txt
-```
+```S
 
 Buat file `.env` dari template:
 ```bash
